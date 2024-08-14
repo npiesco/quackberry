@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+starlette
+strawberry-graphql
+pydantic
+duckdb
+nest-asyncio
+numpy
+pandas
