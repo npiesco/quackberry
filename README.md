@@ -3,7 +3,7 @@
 
 A containerized modern, scalable, and asynchronous API framework with GraphQL support, leveraging Docker, FastAPI, Strawberry, Pydantic, DuckDB, Starlette, and Uvicorn.
 
-<img src="https://github.com/npiesco/svg-assets/blob/main/ArchitectureAPI.png?raw=true" alt="QuackBerry API Framework Architecture" width="200">
+<img src="https://github.com/npiesco/svg-assets/blob/main/ArchitectureAPI.png?raw=true" alt="QuackBerry API Framework Architecture" width="500">
 
 ## Features
 
